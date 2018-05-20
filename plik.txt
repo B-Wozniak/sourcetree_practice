@@ -1,2 +1,3 @@
 to jest inny plik
 a tu zmieniam cos innego
+no i znowu jakies zmiany

@@ -1,1 +1,2 @@
-to jest jakiś plik
+﻿to jest jakiś plik
+zmieniam druga linia

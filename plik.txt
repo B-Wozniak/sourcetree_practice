@@ -1,2 +1,3 @@
 to jest inny plik
 tu sie teraz pojawily istotne zmiany w master
+najnowsze zmiany w master

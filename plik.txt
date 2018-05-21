@@ -1,3 +1,4 @@
 to jest inny plik
 tu sie teraz pojawily istotne zmiany w master
 a tu zmieniam cos innego
+asdasd
